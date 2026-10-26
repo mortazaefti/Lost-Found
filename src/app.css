@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@source "../**/*.php";
+
+button{
+    cursor: pointer;
+}
